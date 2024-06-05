@@ -4,7 +4,7 @@ Mini Proxy is a light, open-source web application that facilitates anonymous we
 ## Key Features of Mini Proxy
 
 #### 1. Compatible with Mac
-Mini Proxy is designed to work seamlessly on Mac devices, overcoming the common issue where VPN applications may not run properly. The developers have created an algorithm that bypasses Mac device settings, ensuring the program is not restricted on these devices.
+[Mini Proxy](https://www.okeyproxy.com/proxy/how-to-use-mini-proxy-a-solution-for-web-navigation/?link=b63b57) is designed to work seamlessly on Mac devices, overcoming the common issue where VPN applications may not run properly. The developers have created an algorithm that bypasses Mac device settings, ensuring the program is not restricted on these devices.
 
 #### 2. Open Source
 As an open-source tool, Mini Proxy allows developers to modify and customize it according to their specific needs.
